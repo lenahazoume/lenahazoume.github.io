@@ -1,0 +1,38 @@
+
+h4{color:#483D8B;
+	text-align: center;
+	font-size: 18px;
+	margin: 20px;}	
+
+h5{color:#696969;
+	text-align: center;
+	font-size: 16px;
+	margin : 14px}
+
+H6{font-size: 18px;
+	margin: 14px;}
+
+H2{margin: 15px;}
+
+H3{text-decoration: underline;}
+div{background-color: #FFFAFA;
+	margin: 7px;
+	border-style:double;
+	border-width: 2px}
+
+body{background-color:#C0C0C0;}
+img {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;}
+body
+.container{
+	display: flex;
+}
+.col1{
+	width: 50%;
+}
+.col2{
+	width: 50%;
+}
+
